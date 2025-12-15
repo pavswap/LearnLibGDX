@@ -210,4 +210,5 @@ public class BlackJack_v_0_0_0 extends ApplicationAdapter {
         sprite.getTexture().dispose();
         font.dispose();
     }
+    
 }
