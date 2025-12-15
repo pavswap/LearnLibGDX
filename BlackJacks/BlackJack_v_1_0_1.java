@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main extends ApplicationAdapter {
+public class BlackJack_v_1_0_1 extends ApplicationAdapter {
 
     // ===== CAMERA & RENDERING =====
     OrthographicCamera camera;
