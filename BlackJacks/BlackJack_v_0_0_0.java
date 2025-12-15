@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main extends ApplicationAdapter {
+public class BlackJack_v_0_0_0 extends ApplicationAdapter {
 
     OrthographicCamera camera;
     Sprite sprite;
